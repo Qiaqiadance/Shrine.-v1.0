@@ -11,6 +11,8 @@
 
 #### **Recent work**
 
+The framework of the main storyline and the general plot content have been completed, and some character images have been generated using AI. First of all, the main storyline is divided into three chapters. The first chapter is called Wolf and Sheep, a dialogue between the protagonist Santos and his brother Marcus, which explains the entire story background and premise of our game, and establishes a positive and decadent character for the protagonist Santos. Chapter 2 is called the nucleus, and its function is to announce the task to the master. Chapter 3 is called the shrine, and its function is to lead to the three different endings that follow.
+
       The framework of the main storyline and the general plot content have been completed, and some character images have been generated using AI. First of all, the main storyline is divided into three chapters. The first chapter is called Wolf and Sheep, a dialogue between the protagonist Santos and his brother Marcus, which explains the entire story background and premise of our game, and establishes a positive and decadent character for the protagonist Santos. Chapter 2 is called the nucleus, and its function is to announce the task to the master. Chapter 3 is called the shrine, and its function is to lead to the three different endings that follow.
 
 #### **Team contribution**
