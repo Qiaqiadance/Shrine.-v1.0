@@ -3,7 +3,8 @@ We will put all the game plot in this folder. Different endings are written in d
 The first three chapter is written by Charles, then there would be a seperate points leading to different endings.
 
 Main plot & Ending1 (Written by Charles): https://docs.google.com/document/d/1kPPDIjEPzeGJEUtYZPmXehe36vR9HWyA7VkWIlVWYOk/edit?usp=sharing
-Femal Version （Written by Beverly）：https://docs.google.com/document/d/1g4Nm8abpceZjtOCIM1L6luRSfEGhoJkz9ilAg2fbjQ0/edit?usp=sharing
+
+Female Version （Written by Beverly）：https://docs.google.com/document/d/1g4Nm8abpceZjtOCIM1L6luRSfEGhoJkz9ilAg2fbjQ0/edit?usp=sharing
 
 Ending2 (Written by Tianxiao Zheng): https://docs.google.com/document/d/16B0MeY0gzhcKTHIcTQAzuSfzF7T7DoYXMlXzsrkxajo/edit?usp=sharing
 
