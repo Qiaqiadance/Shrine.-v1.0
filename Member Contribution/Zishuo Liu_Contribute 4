@@ -1,0 +1,12 @@
+## Development Update: Challenges with Orange Light Software
+
+This week, we faced some unexpected challenges during development. Initially, our plan was to use a Chinese software platform called **Orange Light** ("橙光") to develop our Galgame project. However, after conducting multiple tests, we found that the software is not well-suited to accommodate our design requirements, leading to significant compatibility issues.
+
+### Next Steps
+- Explore alternative software or platforms better aligned with our design goals.
+- Reassess current project scope to adapt to new development tools if necessary.
+- Collaborate with the team to identify workarounds or integrations for existing tools.
+
+### Lessons Learned
+- Thoroughly test software compatibility with project designs early in the planning phase.
+- Maintain flexibility in tool selection to minimize development bottlenecks.
